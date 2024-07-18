@@ -1,8 +1,8 @@
-# Real-Time Webcam Face Emotion Detection with Streamlit
+# Face Emotion Detection with Streamlit
 
 ## Overview
 
-This project leverages Streamlit to create a user-friendly interface for real-time webcam-based face emotion detection. The application utilizes the Haar Cascade classifier for face detection and a transfer-learned ImageNet model trained on the FER 2013 dataset for facial emotion classification.
+This project allows for real-time face emotion detection. The application utilizes the Haar Cascade classifier for face detection and a transfer-learned ImageNet model trained on the FER 2013 dataset for facial emotion classification.
 
 ## Features
 
