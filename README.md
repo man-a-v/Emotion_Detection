@@ -14,12 +14,3 @@ This project allows for real-time face emotion detection. The application utiliz
 
 - **Real-Time Updates**: Emotion predictions are dynamically updated and displayed on the Streamlit app, providing instant feedback on detected facial expressions.
 
-
-
-
-
-
-## Acknowledgments
-
-The emotion detection model is based on a transfer-learned ImageNet architecture trained on the FER 2013 dataset.
-
